@@ -1,0 +1,15 @@
+﻿#################################################################################
+# Error Code |  Error Location						
+0x0001			MainWindow.ConstructPlayerList() < Fatal
+0x0002			GameBoardPage.CreateButtonList() 
+0x0004			StartUp.fameBtn_Click()
+0x0008			XmlUpdater.XmlUpdater()			 < Fatal
+0x0010			RegisterPage.saveBtn_Click()
+0x0011			GameManager.WinnerFound()
+0x0020			GameManager.DrawGame()
+0x0021
+0x0022
+0x0040
+0x0041
+0x0042
+0x0044
